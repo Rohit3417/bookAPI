@@ -1,5 +1,4 @@
 # bookAPI
-# bookAPI
 
 A RESTful Book Management API built with Go, featuring JWT authentication, PostgreSQL persistence (via Supabase), and Redis-backed token blacklisting for logout.
 
